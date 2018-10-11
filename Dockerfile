@@ -1,6 +1,6 @@
 # Original source from https://hub.docker.com/_/node/
-FROM node:9.7.1-alpine
-MAINTAINER Martin DSouza <martin@talkapex.com>
+FROM node:8.12
+MAINTAINER Chetan Padia <chetbox@users.noreply.github.com>
 
 
 # NPM_CONFIG_PREFIX: See below
