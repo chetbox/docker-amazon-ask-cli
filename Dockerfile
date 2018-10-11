@@ -1,5 +1,5 @@
 # Original source from https://hub.docker.com/_/node/
-FROM node:8.12
+FROM node:8.12-alpine
 MAINTAINER Chetan Padia <chetbox@users.noreply.github.com>
 
 
